@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: August 16, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: After shifting frantically between tabs to decide which website to use, I eventually settled on HackerRank and solved a few practice problems for Python proficiency.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I've never really coded for anything outside of academic work so, although I have taken a course on programming w/ Python, I wanted to sort of do a reset and start from the fundamentals. My goal is to turn programming into a habit, because I've got a lot of ideas that I want to actualize from the developer end and because I genuinely just think it's fun. I chose HackerRank mostly because I already had an account and, based on some reviews, it seems like a decent starting point for beginners.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [HackerRank Profile](https://www.hackerrank.com/ramonasraj)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: August 17, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Learned about list comprehensions and solved a related practice problem on HackerRank (Python)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: As it turns out, it's not a good idea to code while sleep-deprived. It took me way too long to figure out the logic behind the problem, but I did learn a relatively new concept, so totally worth it!
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work**: [HackerRank Profile](https://www.hackerrank.com/ramonasraj)
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
