@@ -16,3 +16,11 @@
 
 **Link to work**: [HackerRank Profile](https://www.hackerrank.com/ramonasraj)
 
+### Day 2: August 18, 2020
+
+**Today's Progress**: Experimented with different approaches for "Find the Runner-Up Score" problem on HackerRank (Python)
+
+**Thoughts**: I had some knowledge of built-in functions I could use to make things easier, but I wanted to first see how I could possibly implement it using as few built-in functions as possible. This experiment became a 1-hr replay of the ValueError: ls.remove(x): x not in list. So, yay for consistency, I guess. But I did get to concept-check lists, loops, and functions, so that was good! 
+
+**Link to work**: [HackerRank Profile](https://www.hackerrank.com/ramonasraj)
+
