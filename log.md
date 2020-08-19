@@ -24,3 +24,11 @@
 
 **Link to work**: [HackerRank Profile](https://www.hackerrank.com/ramonasraj)
 
+### Day 3: August 19, 2020
+
+**Today's Progress**: Revisited old software project, which was a grid game similar to Candy Crush (clearing of matched adjacent cells). Started it from scratch with my own modificationa (will be updating this as I make more progress). There's barely any code as yet, because I spent a good amount of time reviewing the past project to understand how I implemented it before. 
+
+**Thoughts**: Remembered how much fun it was to work on this project and I wanted to see if I could create a better version (optimized) of it from scratch. I really like learning through projects because they're basically like loads of practice problems grouped into something bigger and more complex. Super excited to make progress on this!
+
+**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+
