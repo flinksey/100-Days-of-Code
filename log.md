@@ -32,3 +32,11 @@
 
 **Link to work**: [Grid Game](https://github.com/flinksey/game_time)
 
+### Day 4: August 20, 2020
+
+**Today's Progress**: Worked on conceptualizing the grid game project by breaking it down into its components, like the grid generator. Reviewed the concept of dictionaries.
+
+**Thoughts**: This was a lot of fun. Perhaps it's because I've had a few more lessons since the first time I worked on this project (in first semester last academic year), but I've got a few ideas about different ways to implement this that could *possibly* lead to greater optimization. Also, apart from learning to code, the goal is to make a fun game. If it's complex and whatnot but sucks on the User-end, it's kind of rubbish as a game. Looking forward to continue working on it!
+
+**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+
