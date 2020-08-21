@@ -40,3 +40,10 @@
 
 **Link to work**: [Grid Game](https://github.com/flinksey/game_time)
 
+### Day 5: August 21, 2020
+
+**Today's Progress**: Now able to display the grid in an extremely simple format. I've decided to use a list instead of a dictionary for the grid content just because it seems most convenient based on what I know now and for what I'd like to do with the grid.
+
+**Thoughts**: This was a lot of strategizing. I had to review my old code because I hit a minor roadblock I remembered hitting last year. It was really convenient to have code to refer to, so I'm keeping old versions of my new one for that reason. After I've made some more progress, I'll start looking into how similar games have been implemented. Really pumped to continue working and figure out how to go about updating the grid during the game. Sidenote: I'm aware this is all really basic, but I'm happy to be learning with the incremental progress.
+
+**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
