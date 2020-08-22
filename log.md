@@ -47,3 +47,11 @@
 **Thoughts**: This was a lot of strategizing. I had to review my old code because I hit a minor roadblock I remembered hitting last year. It was really convenient to have code to refer to, so I'm keeping old versions of my new one for that reason. After I've made some more progress, I'll start looking into how similar games have been implemented. Really pumped to continue working and figure out how to go about updating the grid during the game. Sidenote: I'm aware this is all really basic, but I'm happy to be learning with the incremental progress.
 
 **Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+
+### Day 6: August 22, 2020
+
+**Today's Progress**: Figured out how to generate the grid from the list of its contents. The grid looks alright with M,N,K = 10 at maximum. For now, this is alright. 
+
+**Thoughts**: At a later point, I'll see if I can make the grid look alright with greater values for M,N,K, although I don't know that anyone would want to play the game with greater values considering how basic the formatting is. I wonder if I can add colour and style it too. AND make it more interactive so the User need not enter the coordinates individually -- they just need to click on the cell. Style isn't the priority right now, but that would be really cool.
+
+**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
