@@ -50,7 +50,7 @@
 
 ### Day 6: August 22, 2020
 
-**Today's Progress**: Figured out how to generate the grid from the list of its contents. The grid looks alright with M,N,K = 10 at maximum. For now, this is alright. 
+**Today's Progress**: Figured out how to generate the grid from the list of its contents. The grid looks alright with M,N,K = 10 at maximum.
 
 **Thoughts**: At a later point, I'll see if I can make the grid look alright with greater values for M,N,K, although I don't know that anyone would want to play the game with greater values considering how basic the formatting is. I wonder if I can add colour and style it too. AND make it more interactive so the User need not enter the coordinates individually -- they just need to click on the cell. Style isn't the priority right now, but that would be really cool.
 
