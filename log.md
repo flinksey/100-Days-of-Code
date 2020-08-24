@@ -55,3 +55,11 @@
 **Thoughts**: At a later point, I'll see if I can make the grid look alright with greater values for M,N,K, although I don't know that anyone would want to play the game with greater values considering how basic the formatting is. I wonder if I can add colour and style it too. AND make it more interactive so the User need not enter the coordinates individually -- they just need to click on the cell. Style isn't the priority right now, but that would be really cool.
 
 **Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+
+### Day 7: August 24, 2020
+
+**Today's Progress**: Sorted out the search for potential matches. I've got some understanding of the logic behind checking for adjacent matches (and the adj matches of those), just got to figure out the implementation.
+
+**Thoughts**: Missed a day because I had to prioritize other work. But I'm getting back on track, and am really pumped to figure this out more in the coming days. Time to experiment!
+
+**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
