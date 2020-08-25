@@ -63,3 +63,11 @@
 **Thoughts**: Missed a day because I had to prioritize other work. But I'm getting back on track, and am really pumped to figure this out more in the coming days. Time to experiment!
 
 **Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+
+### Day 8: August 25, 2020
+
+**Today's Progress**: Continued working on implementation of adjacent match checking. Decided to split it into separate functions for convenience and readability. 
+
+**Thoughts**: There's a lot I've still got to figure out. Need to sort out the iter_match and adj_match functions so that I can then find a way to update the contents based on those checks (plus where to put error message to User about insufficient no. of adj matches). From there, I've got to figure out how to then update the displayed grid, considering the "gravity". 
+
+**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
