@@ -71,3 +71,11 @@
 **Thoughts**: There's a lot I've still got to figure out. Need to sort out the iter_match and adj_match functions so that I can then find a way to update the contents based on those checks (plus where to put error message to User about insufficient no. of adj matches). From there, I've got to figure out how to then update the displayed grid, considering the "gravity". 
 
 **Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+
+### Day 9: August 26, 2020
+
+**Today's Progress**: Focused on strategy today. Although it's not apparent in the code itself as yet, I've mapped out how the functions interact. I've also updated some of the existing functions like scorekeeper, grid_gen, and play.
+
+**Thoughts**: I'm content with my progress for today, because I've now got more clarity. It's pretty cool how things can kinda make more sense once they've been coded, probably because it's no longer just in my head. Super excited to continue this tomorrow!
+
+**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
