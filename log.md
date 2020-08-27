@@ -79,3 +79,11 @@
 **Thoughts**: I'm content with my progress for today, because I've now got more clarity. It's pretty cool how things can kinda make more sense once they've been coded, probably because it's no longer just in my head. Super excited to continue this tomorrow!
 
 **Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+
+### Day 10: August 27, 2020
+
+**Today's Progress**: Continued working on my code, based on my work yesterday. I've cleaned it up, as well, so it's now more readable and easier to understand.
+
+**Thoughts**: While I know having comments is good for documentation, I realize that I can sometimes go a bit overboard. This defeats the purpose of having comments in the first place, because too many comments (especially ones for parts of the code that are pretty self-explanatory) can make the code unreadable. So, I'm glad that's something I sorted out today.
+
+**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
