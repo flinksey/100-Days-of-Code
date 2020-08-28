@@ -87,3 +87,11 @@
 **Thoughts**: While I know having comments is good for documentation, I realize that I can sometimes go a bit overboard. This defeats the purpose of having comments in the first place, because too many comments (especially ones for parts of the code that are pretty self-explanatory) can make the code unreadable. So, I'm glad that's something I sorted out today.
 
 **Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+
+### Day 11: August 28, 2020
+
+**Today's Progress**: Debugged the adj_match function using a few test cases. So far, going well. 
+
+**Thoughts**: Can I just say how good it feels to figure out what's wrong with the code *and* fix it? It does. Yeah, that's pretty much it for today. I'mma try out more test cases tomorrow.
+
+**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
