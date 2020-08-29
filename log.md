@@ -95,3 +95,11 @@
 **Thoughts**: Can I just say how good it feels to figure out what's wrong with the code *and* fix it? It does. Yeah, that's pretty much it for today. I'mma try out more test cases tomorrow.
 
 **Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+
+### Day 12: August 29, 2020
+
+**Today's Progress**: The flow of today's session went: tried other test cases -> discovered an issue I needed to account for -> accounted for it -> now have new issue I need to account for. Oh, and I've also brushed up on the concept of sets.
+
+**Thoughts**: Today was equal parts fun and frustrating. It's amusing to go from thinking I've covered all bases to discovering there are bases I'd not even considered previously. But, I'm learning and that's what keeps it interesting.
+
+**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
