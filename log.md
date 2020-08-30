@@ -103,3 +103,11 @@
 **Thoughts**: Today was equal parts fun and frustrating. It's amusing to go from thinking I've covered all bases to discovering there are bases I'd not even considered previously. But, I'm learning and that's what keeps it interesting.
 
 **Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+
+### Day 13: August 30, 2020
+
+**Today's Progress**: I spent the hour debugging the adj_check function. While I was able to make it accurately return the adjacent matches of the selected cell; however, I'm still figuring out how to get it to return the adj matches of the adj matches of the selected cell. 
+
+**Thoughts**: It's a bit challenging, because this was the main roadblock that I'd hit last year when I first worked on this project. So, it's a lot of fun, but yeah, challenging. I think that I'll have to dedicate more than an hour and a half to meet my projected deadline (no pressure, although it would be cool to also branch out into other applications of Python). 
+
+**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
