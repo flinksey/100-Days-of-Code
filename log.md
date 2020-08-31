@@ -111,3 +111,11 @@
 **Thoughts**: It's a bit challenging, because this was the main roadblock that I'd hit last year when I first worked on this project. So, it's a lot of fun, but yeah, challenging. I think that I'll have to dedicate more than an hour and a half to meet my projected deadline (no pressure, although it would be cool to also branch out into other applications of Python). 
 
 **Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+
+### Day 14: August 31, 2020
+
+**Today's Progress**: Sorted out adj_check and now it returns all adjacent matches. Also, figured out how to keep the game in play while updating the displayed grid each round. 
+
+**Thoughts**: Today's progress was good. I might need to check my code against other test cases, but it's good for now. My priority is to figure out how to implement the "gravity" feature, which is essentially the grid adapting to the updates (deletion of empty cols, shifting of cells into empty ones, etc.). 
+
+**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
