@@ -119,3 +119,11 @@
 **Thoughts**: Today's progress was good. I might need to check my code against other test cases, but it's good for now. My priority is to figure out how to implement the "gravity" feature, which is essentially the grid adapting to the updates (deletion of empty cols, shifting of cells into empty ones, etc.). 
 
 **Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+
+### Day 15: September 1, 2020
+
+**Today's Progress**: Sorted out the score function and started working out how to implement the "gravity" feature. 
+
+**Thoughts**: Today's progress was good, too. The score function works well and the grid_update function works to at least 1 row level. Need to improve this so that it accounts for all necessary row levels.
+
+**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
