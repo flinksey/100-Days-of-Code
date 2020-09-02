@@ -127,3 +127,10 @@
 **Thoughts**: Today's progress was good, too. The score function works well and the grid_update function works to at least 1 row level. Need to improve this so that it accounts for all necessary row levels.
 
 **Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+
+### Day 16: September 2, 2020
+
+**Today's Progress**: Changed things up today, due to certain constraints, by working on the final assignment in Course 7 of the IBM Data Science Professional Certificate.
+
+**Thoughts**: Today was alright, I'm learning more about data visualization so that's awesome. I'm looking to apply whatever I learn in this specialization program to my own projects. Not sure if this will be possible in the remaining days I've got, considering some of the projects I initially had in mind. But I'll for sure look into it, because it would be great to do so.
+
