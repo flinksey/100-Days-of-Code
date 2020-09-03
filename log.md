@@ -134,3 +134,9 @@
 
 **Thoughts**: Today was alright, I'm learning more about data visualization so that's awesome. I'm looking to apply whatever I learn in this specialization program to my own projects. Not sure if this will be possible in the remaining days I've got, considering some of the projects I initially had in mind. But I'll for sure look into it, because it would be great to do so.
 
+### Day 17: September 3, 2020
+
+**Today's Progress**: Continued working on my final assignments for the data science courses. Learned a little about different approaches to clustering data.
+
+**Thoughts**: Today was fun, because I learned that you can calculate dissimilarity in data, which is really cool! I also continued learning about data visualization. It's taking me a while to grasp the concepts, but it's great to be learning something new.
+
