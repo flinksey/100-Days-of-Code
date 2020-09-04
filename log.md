@@ -140,3 +140,8 @@
 
 **Thoughts**: Today was fun, because I learned that you can calculate dissimilarity in data, which is really cool! I also continued learning about data visualization. It's taking me a while to grasp the concepts, but it's great to be learning something new.
 
+### Day 18: September 4, 2020
+
+**Today's Progress**: Created a new repo for my assignments in data sciences courses. Continued working on said courses, as well as strategizing for progress on the grid game.
+
+**Thoughts**: It was dope to learn about projects here on GitHub, considering I'm very new to using it. I'm removing the projected end date from the grid game plan because I've realized that there's more I can do with it, even if I don't do everything all at once or even within the year. But it would be a good start.
