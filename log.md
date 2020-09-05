@@ -145,3 +145,9 @@
 **Today's Progress**: Created a new repo for my assignments in data sciences courses. Continued working on said courses, as well as strategizing for progress on the grid game.
 
 **Thoughts**: It was dope to learn about projects here on GitHub, considering I'm very new to using it. I'm removing the projected end date from the grid game plan because I've realized that there's more I can do with it, even if I don't do everything all at once or even within the year. But it would be a good start.
+
+### Day 19: September 5, 2020
+
+**Today's Progress**: I reviewed some previous lab activities that I've done for some data science courses.
+
+**Thoughts**: This is such a noob-y thing, but I also learned how to create folders in GitHub, and it is so convenient -- except, of course, for the fact that you can't create empty ones. Overall, a pretty decent session of revision. I've still got some pending assignments, so I'll probably continue working on those tomorrow.
