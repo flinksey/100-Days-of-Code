@@ -151,3 +151,9 @@
 **Today's Progress**: I reviewed some previous lab activities that I've done for some data science courses.
 
 **Thoughts**: This is such a noob-y thing, but I also learned how to create folders in GitHub, and it is so convenient -- except, of course, for the fact that you can't create empty ones. Overall, a pretty decent session of revision. I've still got some pending assignments, so I'll probably continue working on those tomorrow.
+
+### Day 20: September 6, 2020
+
+**Today's Progress**: I continued reviewing previous lessons today, as well as strategizing for some of my pending assignments.
+
+**Thoughts**: Tomorrow, I'm going to see if I can finish one such assignment. I'll also be planning my capstone project, which is exciting! It's a little nerve-wracking, because I'll really have to pull together a lot of the lessons I've learned and am learning. But, I enjoy a good challenge so this should be a lot of fun.
