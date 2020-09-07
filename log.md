@@ -160,7 +160,7 @@
 
 ### Day 21: September 7, 2020
 
-**Today's Progress**: Continued reviewing previous lessons and continued debugging the grid_update function. I've also started planning be capstone project which will, for the time being, be quite basic but will ideally have potential for significant optimization later on.
+**Today's Progress**: Continued reviewing previous lessons and continued debugging the grid_update function. I've also started planning my capstone project which will, for the time being, be quite basic but will ideally have potential for significant optimization later on.
 
 **Thoughts**: It's taking some time for me to debug the grid_update function. I'm wondering if I should just scrap the function and redo it from scratch. Perhaps I'm looking at it the wrong way. But for whatever it's worth, it's a fun challenge and I'm enjoying figuring it out, even though it seems to be taking _way_ longer than it should.
 
