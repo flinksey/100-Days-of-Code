@@ -30,7 +30,7 @@
 
 **Thoughts**: Remembered how much fun it was to work on this project and I wanted to see if I could create a better version (optimized) of it from scratch. I really like learning through projects because they're basically like loads of practice problems grouped into something bigger and more complex. Super excited to make progress on this!
 
-**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
 
 ### Day 4: August 20, 2020
 
@@ -38,7 +38,7 @@
 
 **Thoughts**: This was a lot of fun. Perhaps it's because I've had a few more lessons since the first time I worked on this project (in first semester last academic year), but I've got a few ideas about different ways to implement this that could *possibly* lead to greater optimization. Also, apart from learning to code, the goal is to make a fun game. If it's complex and whatnot but sucks on the User-end, it's kind of rubbish as a game. Looking forward to continue working on it!
 
-**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
 
 ### Day 5: August 21, 2020
 
@@ -46,7 +46,7 @@
 
 **Thoughts**: This was a lot of strategizing. I had to review my old code because I hit a minor roadblock I remembered hitting last year. It was really convenient to have code to refer to, so I'm keeping old versions of my new one for that reason. After I've made some more progress, I'll start looking into how similar games have been implemented. Really pumped to continue working and figure out how to go about updating the grid during the game. Sidenote: I'm aware this is all really basic, but I'm happy to be learning with the incremental progress.
 
-**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
 
 ### Day 6: August 22, 2020
 
@@ -54,7 +54,7 @@
 
 **Thoughts**: At a later point, I'll see if I can make the grid look alright with greater values for M,N,K, although I don't know that anyone would want to play the game with greater values considering how basic the formatting is. I wonder if I can add colour and style it too. AND make it more interactive so the User need not enter the coordinates individually -- they just need to click on the cell. Style isn't the priority right now, but that would be really cool.
 
-**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
 
 ### Day 7: August 24, 2020
 
@@ -62,7 +62,7 @@
 
 **Thoughts**: Missed a day because I had to prioritize other work. But I'm getting back on track, and am really pumped to figure this out more in the coming days. Time to experiment!
 
-**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
 
 ### Day 8: August 25, 2020
 
@@ -70,7 +70,7 @@
 
 **Thoughts**: There's a lot I've still got to figure out. Need to sort out the iter_match and adj_match functions so that I can then find a way to update the contents based on those checks (plus where to put error message to User about insufficient no. of adj matches). From there, I've got to figure out how to then update the displayed grid, considering the "gravity". 
 
-**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
 
 ### Day 9: August 26, 2020
 
@@ -78,7 +78,7 @@
 
 **Thoughts**: I'm content with my progress for today, because I've now got more clarity. It's pretty cool how things can kinda make more sense once they've been coded, probably because it's no longer just in my head. Super excited to continue this tomorrow!
 
-**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
 
 ### Day 10: August 27, 2020
 
@@ -86,7 +86,7 @@
 
 **Thoughts**: While I know having comments is good for documentation, I realize that I can sometimes go a bit overboard. This defeats the purpose of having comments in the first place, because too many comments (especially ones for parts of the code that are pretty self-explanatory) can make the code unreadable. So, I'm glad that's something I sorted out today.
 
-**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
 
 ### Day 11: August 28, 2020
 
@@ -94,7 +94,7 @@
 
 **Thoughts**: Can I just say how good it feels to figure out what's wrong with the code *and* fix it? It does. Yeah, that's pretty much it for today. I'mma try out more test cases tomorrow.
 
-**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
 
 ### Day 12: August 29, 2020
 
@@ -102,7 +102,7 @@
 
 **Thoughts**: Today was equal parts fun and frustrating. It's amusing to go from thinking I've covered all bases to discovering there are bases I'd not even considered previously. But, I'm learning and that's what keeps it interesting.
 
-**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
 
 ### Day 13: August 30, 2020
 
@@ -110,7 +110,7 @@
 
 **Thoughts**: It's a bit challenging, because this was the main roadblock that I'd hit last year when I first worked on this project. So, it's a lot of fun, but yeah, challenging. I think that I'll have to dedicate more than an hour and a half to meet my projected deadline (no pressure, although it would be cool to also branch out into other applications of Python). 
 
-**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
 
 ### Day 14: August 31, 2020
 
@@ -118,7 +118,7 @@
 
 **Thoughts**: Today's progress was good. I might need to check my code against other test cases, but it's good for now. My priority is to figure out how to implement the "gravity" feature, which is essentially the grid adapting to the updates (deletion of empty cols, shifting of cells into empty ones, etc.). 
 
-**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
 
 ### Day 15: September 1, 2020
 
@@ -126,7 +126,7 @@
 
 **Thoughts**: Today's progress was good, too. The score function works well and the grid_update function works to at least 1 row level. Need to improve this so that it accounts for all necessary row levels.
 
-**Link to work**: [Grid Game](https://github.com/flinksey/game_time)
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
 
 ### Day 16: September 2, 2020
 
@@ -157,3 +157,11 @@
 **Today's Progress**: I continued reviewing previous lessons today, as well as strategizing for some of my pending assignments.
 
 **Thoughts**: Tomorrow, I'm going to see if I can finish one such assignment. I'll also be planning my capstone project, which is exciting! It's a little nerve-wracking, because I'll really have to pull together a lot of the lessons I've learned and am learning. But, I enjoy a good challenge so this should be a lot of fun.
+
+### Day 21: September 7, 2020
+
+**Today's Progress**: Continued reviewing previous lessons and continued debugging the grid_update function. I've also started planning be capstone project which will, for the time being, be quite basic but will ideally have potential for significant optimization later on.
+
+**Thoughts**: It's taking some time for me to debug the grid_update function. I'm wondering if I should just scrap the function and redo it from scratch. Perhaps I'm looking at it the wrong way. But for whatever it's worth, it's a fun challenge and I'm enjoying figuring it out, even though it seems to be taking _way_ longer than it should.
+
+**Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
