@@ -165,3 +165,9 @@
 **Thoughts**: It's taking some time for me to debug the grid_update function. I'm wondering if I should just scrap the function and redo it from scratch. Perhaps I'm looking at it the wrong way. But for whatever it's worth, it's a fun challenge and I'm enjoying figuring it out, even though it seems to be taking _way_ longer than it should.
 
 **Link to work**: [Grid Game](https://github.com/flinksey/Grid-Game)
+
+### Day 22: September 8, 2020
+
+**Today's Progress**: Continued working on one of my final assignments. Amazingly, it took me two hours to debug some code for one of the items and it ended up being just 3 lines long. 
+
+**Thoughts**: Today wasn't eventful, but I would say it was productive. It was frustating but also amusing, because of how simple it actually was. But overall, I'm just glad that I've made some progress on my assignments. My next semester's starting in 2 days, so it's going to be interesting how everything meshes.
