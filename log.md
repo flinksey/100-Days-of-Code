@@ -171,3 +171,9 @@
 **Today's Progress**: Continued working on one of my final assignments. Amazingly, it took me two hours to debug some code for one of the items and it ended up being just 3 lines long. 
 
 **Thoughts**: Today wasn't eventful, but I would say it was productive. It was frustating but also amusing, because of how simple it actually was. But overall, I'm just glad that I've made some progress on my assignments. My next semester's starting in 2 days, so it's going to be interesting how everything meshes.
+
+### Day 23: September 9, 2020
+
+**Today's Progress**: Continued working on one of my final assignments. It's taking me a really long time to debug my code for one of the items, so that's something I'll likely redo from scratch tomorrow. 
+
+**Thoughts**: Today wasn't as productive as I'd hoped it to be. I essentially spent the bulk of my time trying to debug some code, which is now quite long for what's being asked. I can definitely do it, just need to make sure I achieve my goal of completing this assignment by this weekend since my classes start this week.
