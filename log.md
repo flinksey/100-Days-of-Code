@@ -177,3 +177,9 @@
 **Today's Progress**: Continued working on one of my final assignments. It's taking me a really long time to debug my code for one of the items, so that's something I'll likely redo from scratch tomorrow. 
 
 **Thoughts**: Today wasn't as productive as I'd hoped it to be. I essentially spent the bulk of my time trying to debug some code, which is now quite long for what's being asked. I can definitely do it, just need to make sure I achieve my goal of completing this assignment by this weekend since my classes start this week.
+
+### Day 24: September 10, 2020
+
+**Today's Progress**: Finally debugged that item from yesterday. It works! It works! 
+
+**Thoughts**: Today was fun. I mean, it was stressful because I had started from scratch and was suddenly looking at an empty cell. But the more I worked on it, the more I understood about how to go about it. All in all, today was productive!
