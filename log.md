@@ -183,3 +183,9 @@
 **Today's Progress**: Finally debugged that item from yesterday. It works! It works! 
 
 **Thoughts**: Today was fun. I mean, it was stressful because I had started from scratch and was suddenly looking at an empty cell. But the more I worked on it, the more I understood about how to go about it. All in all, today was productive!
+
+### Day 25: September 11, 2020
+
+**Today's Progress**: So close to completing one of my datasci courses! Currently, working on the last item of the final assignment.
+
+**Thoughts**: Goal is to accomplish this course by this weekend, so that I can move on to the next one. It's a fairly time-sensitive program, so even though the deadlines of the program itself aren't fixed, my personal timeline requires I get cracking on the next one soon. Super duper looking forward to completing my assignment, especially because I've learned a lot so far. In the words of Dory: Just keep swimming, just keep swimming. 
