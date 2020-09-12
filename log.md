@@ -189,3 +189,9 @@
 **Today's Progress**: So close to completing one of my datasci courses! Currently, working on the last item of the final assignment.
 
 **Thoughts**: Goal is to accomplish this course by this weekend, so that I can move on to the next one. It's a fairly time-sensitive program, so even though the deadlines of the program itself aren't fixed, my personal timeline requires I get cracking on the next one soon. Super duper looking forward to completing my assignment, especially because I've learned a lot so far. In the words of Dory: Just keep swimming, just keep swimming. 
+
+### Day 26: September 12, 2020
+
+**Today's Progress**: Finally finished one of my datasci courses!! It took a while, so yay.
+
+**Thoughts**: Okay, so now I've got to accomplish my next assignment and work out how I'm going to implement my capstone project. Pretty good work today!
