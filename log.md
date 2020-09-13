@@ -195,3 +195,11 @@
 **Today's Progress**: Finally finished one of my datasci courses!! It took a while, so yay.
 
 **Thoughts**: Okay, so now I've got to accomplish my next assignment and work out how I'm going to implement my capstone project. Pretty good work today!
+
+### Day 27: September 13, 2020
+
+**Today's Progress**: Started working on my capstone project. Created the repo for it. Will update as I progress.
+
+**Thoughts**: It's a little daunting to actually work on a small project outside of my regular academics, but it is also exciting! It's taken me months to get this far in my learning and I'm looking forward to seeing it through.
+
+**Link to work**: [Capstone Project](https://github.com/flinksey/Coursera_Capstone)
