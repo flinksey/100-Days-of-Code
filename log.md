@@ -203,3 +203,15 @@
 **Thoughts**: It's a little daunting to actually work on a small project outside of my regular academics, but it is also exciting! It's taken me months to get this far in my learning and I'm looking forward to seeing it through.
 
 **Link to work**: [Capstone Project](https://github.com/flinksey/Coursera_Capstone)
+
+### Day 28: September 14, 2020
+
+**Today's Progress**: Continued reviewing lessons and working on one of my final assignments. That aside, goal for this week is to find a decent dataset to use for my capstone project.
+
+**Thoughts**: I've been getting busier with uni course work, so I've to allocate my time better to stay on top of all of my projects and assignments.
+
+### Day 29: September 15, 2020
+
+**Today's Progress**: Continued working on my final assignment for Course 8 of the IBM Data Science Professional Certificate program. 
+
+**Thoughts**: I'm getting a better handle on my time commitments, and should finish this assignment by the weekend.
