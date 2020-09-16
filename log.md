@@ -215,3 +215,9 @@
 **Today's Progress**: Continued working on my final assignment for Course 8 of the IBM Data Science Professional Certificate program. 
 
 **Thoughts**: I'm getting a better handle on my time commitments, and should finish this assignment by the weekend.
+
+### Day 30: September 16, 2020
+
+**Today's Progress**: Continued working on my assignment. 
+
+**Thoughts**: It's finally crunch time. I've got to make sure that _both_ my assignment and capstone project are completed this weekend, to make sure that I stay on track with everything. It's nerve-wracking and challenging, but pretty exciting too.
