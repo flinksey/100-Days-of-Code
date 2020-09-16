@@ -220,4 +220,4 @@
 
 **Today's Progress**: Continued working on my assignment. 
 
-**Thoughts**: It's finally crunch time. I've got to make sure that _both_ my assignment and capstone project are completed this weekend, to make sure that I stay on track with everything. It's nerve-wracking and challenging, but pretty exciting too.
+**Thoughts**: It's finally crunch time. I've got to make sure that _both_ my assignment and capstone project are completed next week, to make sure that I stay on track with everything. It's nerve-wracking and challenging, but pretty exciting too.
