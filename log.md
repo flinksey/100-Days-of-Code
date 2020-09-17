@@ -221,3 +221,9 @@
 **Today's Progress**: Continued working on my assignment. 
 
 **Thoughts**: It's finally crunch time. I've got to make sure that _both_ my assignment and capstone project are completed next week, to make sure that I stay on track with everything. It's nerve-wracking and challenging, but pretty exciting too.
+
+### Day 31: September 17, 2020
+
+**Today's Progress**: Continued working on my assignment. Found a few datasets that I might be able to use for my project.
+
+**Thoughts**: Rearranged blocks in my timeline to account for changes in schedule. Will outline insights tomorrow.
