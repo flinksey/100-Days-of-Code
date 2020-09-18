@@ -227,3 +227,9 @@
 **Today's Progress**: Continued working on my assignment. Found a few datasets that I might be able to use for my project.
 
 **Thoughts**: Rearranged blocks in my timeline to account for changes in schedule. Will outline insights tomorrow.
+
+### Day 32: September 18, 2020
+
+**Today's Progress**: Continued working on my assignment. Strategized my capstone project.
+
+**Thoughts**: Today was not as eventful on this front, as I've had to prioritize my coursework for university. It's likely that I won't have much time next week, either, although I'll definitely make some once I get a few other assignments out of the way.
