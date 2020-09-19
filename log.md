@@ -233,3 +233,11 @@
 **Today's Progress**: Continued working on my assignment. Strategized my capstone project.
 
 **Thoughts**: Today was not as eventful on this front, as I've had to prioritize my coursework for university. It's likely that I won't have much time next week, either, although I'll definitely make some once I get a few other assignments out of the way.
+
+### Day 33: September 19, 2020
+
+**Today's Progress**: Continued working on capstone project. Decided to look for a different dataset, as the one I'd initially planned on using didn't have some of the variables I wanted to look into.
+
+**Thoughts**: Decent progress today! I'm still not 100% sure how I'll work with the data or what I even hope to find, but it's definitely fun figuring it all out.
+
+**Link to work**: [Capstone Project](https://github.com/flinksey/Coursera_Capstone)
