@@ -249,3 +249,9 @@
 **Thoughts**: Incremental progress, but I think that my workflow will be a bit smoother now that I've got some clarity about immediate next steps. Speaking of steps, the next one has to do with getting a deeper understanding of the data. Tomorrow, I need to finally decide which variables will help determine severity of the car accidents and then look into cleaning the data.
 
 **Link to work**: [Capstone Project](https://github.com/flinksey/Coursera_Capstone)
+
+### Day 35: September 21, 2020
+
+**Today's Progress**: Continued reviewing lessons. Also, went through this repo by hangtwenty to supplement previous lessons: https://github.com/hangtwenty/dive-into-machine-learning
+
+**Thoughts**: Was quite busy today, because of some class requirements. Unfortunately, I was not able to do everything I'd planned. Tomorrow, I'll have a bit more time to do some more work for my capstone project.
