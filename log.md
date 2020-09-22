@@ -255,3 +255,11 @@
 **Today's Progress**: Continued reviewing lessons. Also, went through this repo by hangtwenty to supplement previous lessons: https://github.com/hangtwenty/dive-into-machine-learning
 
 **Thoughts**: Was quite busy today, because of some class requirements. Unfortunately, I was not able to do everything I'd planned. Tomorrow, I'll have a bit more time to do some more work for my capstone project.
+
+### Day 36: September 22, 2020
+
+**Today's Progress**: Today was a bit different. Since I'll likely not be able to actually write code for my capstone project until this weekend, I thought I'd check out freeCodeCamp's material for people wanting to learn Python. I've started with their Data Analysis with Python Certification modules.  
+
+**Thoughts**: Last week was hectic and this week, as it turns out, will also be hectic. So, I decided to push my capstone project a bit so I could get some things in order for university, as my classes are my current priority. I'm very grateful to be working with such wonderful people in my teams, and especially to be surrounded by really supportive people like my family. It's a bit sappy, but I would not be able to make half the progress I'm making or do the things that I'm doing without their support and guidance. 
+
+**Link**: [freeCodeCamp's Data Analysis with Python module](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/)
