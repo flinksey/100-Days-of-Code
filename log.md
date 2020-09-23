@@ -266,8 +266,8 @@
 
 ### Day 37: September 23, 2020
 
-**Today's Progress**: Continued with FreeCodeCamp's module on Data Analysis. Worked on some practice problems they've made available [here](https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example) on GitHub.
+**Today's Progress**: Continued with FreeCodeCamp's module on Data Analysis. Worked on some practice problems available [here](https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example) on GitHub.
 
 **Thoughts**: One of the challenges I've got with my capstone project is just the block in terms of deciding which variables to focus on. I'd completely forgotten that it's totally possible for me to play around with the data and see how the variables affect each other--for those that do, at least. Now, I'm a lot more excited about working on my project this weekend! 
 
-**Link**: [Some Exercises - FreeCodeCamp](https://github.com/flinksey/python_learnspace)
+**Link to Exercises**: [Some Exercises - RMOTR/FreeCodeCamp](https://github.com/flinksey/FreeCodeCamp-Pandas-Real-Life-Example)
