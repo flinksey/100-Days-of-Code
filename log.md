@@ -270,4 +270,4 @@
 
 **Thoughts**: One of the challenges I've got with my capstone project is just the block in terms of deciding which variables to focus on. I'd completely forgotten that it's totally possible for me to play around with the data and see how the variables affect each other--for those that do, at least. Now, I'm a lot more excited about working on my project this weekend! 
 
-**Link**: [Some Exercises - FreeCodeCamp](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/)
+**Link**: [Some Exercises - FreeCodeCamp](https://github.com/flinksey/python_learnspace)
