@@ -269,3 +269,9 @@
 **Today's Progress**: Continued with FreeCodeCamp's module on Data Analysis. Went through some practice problems available [here](https://github.com/ine-rmotr-curriculum/FreeCodeCamp-Pandas-Real-Life-Example) on GitHub. Decided to work on them on Google Colab for once, instead of on Jupyter Notebook. I know the answers are right there, but I wanted to work on them with some datasets I found online and see what else I could do. Wasn't sure about copyright stuff (something I'll have to add to my list of things to do), so I'm keeping this one private for now. I'll probably get to work on some notes for my python_learnspace repo soon, though.
 
 **Thoughts**: One of the challenges I've got with my capstone project is just the block in terms of deciding which variables to focus on. I'd completely forgotten that it's totally possible for me to play around with the data and see how the variables affect each other--for those that do, at least. Now, I'm a lot more excited about working on my project this weekend!
+
+### Day 38: September 24, 2020
+
+**Today's Progress**: Today, I went back to my grid_game! I learned about Pygame, which is a bunch of Python modules that enables you to build games using Python. Working on two main things with the grid_game: (1) Functionality (i.e. gravity feature is still a work-in-progress) and (2) User Experience. 
+
+**Thoughts**: I've been working on some simulations this week for my lab class, and it got me thinking about my grid_game. I figure that there were several things about it that would make it inconvenient for someone to actually play the game for fun. It's no good building a game, however simple, if it does not satisfy the end-objective of entertainment for the User. So, after I figure out how to fix the gravity thing, I'll focus on User Experience.
