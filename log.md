@@ -272,6 +272,8 @@
 
 ### Day 38: September 24, 2020
 
-**Today's Progress**: Today, I went back to my grid_game! I learned about Pygame, which is a bunch of Python modules that enables you to build games using Python. Working on two main things with the grid_game: (1) Functionality (i.e. gravity feature is still a work-in-progress) and (2) User Experience. 
+**Today's Progress**: Today, I went back to my grid_game! I learned about Pygame, which is a bunch of Python modules that enables you to build games using Python. Working on two main things with the grid_game: (1) Functionality (i.e. gravity feature is still a work-in-progress) and (2) User Experience. Super, super excited to keep improving it!!
 
 **Thoughts**: I've been working on some simulations this week for my lab class, and it got me thinking about my grid_game. I figure that there were several things about it that would make it inconvenient for someone to actually play the game for fun. It's no good building a game, however simple, if it does not satisfy the end-objective of entertainment for the User. So, after I figure out how to fix the gravity thing, I'll focus on User Experience.
+
+**Link**: [Grid Game](https://github.com/flinksey/Grid-Game)
