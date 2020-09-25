@@ -277,3 +277,11 @@
 **Thoughts**: I've been working on some simulations this week for my lab class, and it got me thinking about my grid_game. I figure that there were several things about it that would make it inconvenient for someone to actually play the game for fun. It's no good building a game, however simple, if it does not satisfy the end-objective of entertainment for the User. So, after I figure out how to fix the gravity thing, I'll focus on User Experience.
 
 **Link**: [Grid Game](https://github.com/flinksey/Grid-Game)
+
+### Day 39: September 25, 2020
+
+**Today's Progress**: So, I essentially spent about an hour and a half trying to debug the grid_update function to finally get the gravity feature working. It's still not working the way it should, so that's something still in progress. 
+
+**Thoughts**: Considering the time constraints I've got, I figure that I'll switch things up tomorrow and focus on my capstone project. I'll still bounce around ideas for this, but ultimately I have to figure out what the heck I'm going to do with the project. As a sidenote, I'm not yet sure how I'll incorporate Pygame, so it's currently a point of exploration.
+
+**Link to Grid Game as is**: [Grid Game](https://github.com/flinksey/Grid-Game)
