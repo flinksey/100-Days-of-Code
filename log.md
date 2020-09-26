@@ -285,3 +285,11 @@
 **Thoughts**: Considering the time constraints I've got, I figure that I'll switch things up tomorrow and focus on my capstone project. I'll still bounce around ideas for this, but ultimately I have to figure out what the heck I'm going to do with the project. As a sidenote, I'm not yet sure how I'll incorporate Pygame, so it's currently a point of exploration.
 
 **Link to Grid Game as is**: [Grid Game](https://github.com/flinksey/Grid-Game)
+
+### Day 40: September 26, 2020
+
+**Today's Progress**: Figured out a couple of possible approaches to fixing the grid_update function. Also, discovered another bug. Might actually have to redo several functions.  
+
+**Thoughts**: I keep getting stuck here, so I think that I should leave it for a day or two to focus on research so that I can come back to it with fresh ideas. Also, I should really get to work on the project. It won't make itself.
+
+**Link to Grid Game as is**: [Grid Game](https://github.com/flinksey/Grid-Game)
