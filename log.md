@@ -293,3 +293,10 @@
 **Thoughts**: I keep getting stuck here, so I think that I should leave it for a day or two to focus on research so that I can come back to it with fresh ideas. Also, I should really get to work on the project. It won't make itself.
 
 **Link to Grid Game as is**: [Grid Game](https://github.com/flinksey/Grid-Game)
+
+### Day 41: September 27, 2020
+
+**Today's Progress**: Finally decided on using the shared dataset provided by the IBM Data Science program instructors, partly because of some constraints that I've got to work around. Worked on the first two steps of the Cross-Industry Standard Process for Data Mining (CRISP-DM), which is the framework that was elaborated on throughout the certificate program. Some references about CRISP-DM: https://towardsdatascience.com/crisp-dm-methodology-leader-in-data-mining-and-big-data-467efd3d3781, https://www.datascience-pm.com/crisp-dm-2/
+
+**Thoughts**: I've decided that I'm going back to the 8th course, which is all about machine learning in Python. I realized that it was counterproductive that I was looking at just my task at hand without branching out and looking at existing supervised machine learning models, which would significantly speed up the process of developing this project. Also, I'm just really happy that I'm no longer so confused and disoriented and can actually get to work on the project. 
+
