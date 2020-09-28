@@ -300,3 +300,10 @@
 
 **Thoughts**: I've decided that I'm going back to the 8th course, which is all about machine learning in Python. I realized that it was counterproductive that I was looking at just my task at hand without branching out and looking at existing supervised machine learning models, which would significantly speed up the process of developing this project. Also, I'm just really happy that I'm no longer so confused and disoriented and can actually get to work on the project. 
 
+### Day 42: September 28, 2020
+
+**Today's Progress**: Worked on analyzing the dataset to figure out what attributes might be helpful for the objective of training the model to determine severity rating.
+
+**Thoughts**: It's kind of freaky how there's a counter that estimates the number of fatalities of road users per day, month, and year. I mean, once this quarantine becomes better managed (fingers-crossed) I'm still going outside and whatnot. But this puts things into perspective.
+
+**Link**: https://github.com/flinksey/Coursera_Capstone/blob/master/C9_Capstone.ipynb
