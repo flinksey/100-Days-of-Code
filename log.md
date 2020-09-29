@@ -307,3 +307,11 @@
 **Thoughts**: It's kind of freaky how there's a counter that estimates the number of fatalities of road users per day, month, and year. I mean, once this quarantine becomes better managed (fingers-crossed) I'm still going outside and whatnot. But this puts things into perspective.
 
 **Link**: https://github.com/flinksey/Coursera_Capstone/blob/master/C9_Capstone.ipynb
+
+### Day 43: September 29, 2020
+
+**Today's Progress**: Continued working on the Data section of my capstone notebook. Went back to the Machine Learning course (8th in the 9-course program) and figured that I'm building a supervised ML classification model, which helps because now I know what methods to look into. 
+
+**Thoughts**: Didn't do much coding today because of time constraints, which sucks. But I did get to learn some methods that might be more helpful for my project. Excited to go back to the data. I'm realizing that the Understanding Data step takes a lot of time, because this is the jumping off point for developing the solution as it's where we define what sort of data is required and where to look for it.
+
+**Link**: https://github.com/flinksey/Coursera_Capstone/blob/master/C9_Capstone.ipynb
