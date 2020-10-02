@@ -315,3 +315,9 @@
 **Thoughts**: Didn't do much coding today because of time constraints, which sucks. But I did get to learn some methods that might be more helpful for my project. Excited to go back to the data. I'm realizing that the Understanding Data step takes a lot of time, because this is the jumping off point for developing the solution as it's where we define what sort of data is required and where to look for it.
 
 **Link**: https://github.com/flinksey/Coursera_Capstone/blob/master/C9_Capstone.ipynb
+
+### Day 44: October 2, 2020
+
+**Today's Progress**: Learned more about classification, particularly the K-Nearest Neighbours algorithm.  
+
+**Thoughts**: It's cool to learn about the KNN algorithm because I remember that one of the challenges we had during the Shopee Code League would have been pretty fun to solve using it. On a different note, to address why I skipped a few days, it's because I'm prioritizing my uni coursework and sometimes it takes a while to go through, because I'm learning the fundamentals of concepts that are highly critical in the electronics engineering field. Either way, it's cool to be able to learn all these different things! 
