@@ -321,3 +321,9 @@
 **Today's Progress**: Learned more about classification, particularly the K-Nearest Neighbours algorithm.  
 
 **Thoughts**: It's cool to learn about the KNN algorithm because I remember that one of the challenges we had during the Shopee Code League would have been pretty fun to solve using it. On a different note, to address why I skipped a few days, it's because I'm prioritizing my uni coursework and sometimes it takes a while to go through, because I'm learning the fundamentals of concepts that are highly critical in the electronics engineering field. Either way, it's cool to be able to learn all these different things! 
+
+### Day 45: October 3, 2020
+
+**Today's Progress**: Went kind of backwards (since I went to KNN first) and explored regression. 
+
+**Thoughts**: Learning about regression and its applications is fun! It's cool, because it's a bit of a level of abstraction and I got to go into some of the math behind it. Simple Linear Regression made me think of Local Linear Approximation, which was something we did exercises on last year so that was nice.
