@@ -327,3 +327,9 @@
 **Today's Progress**: Went kind of backwards (since I went to KNN first) and explored regression. 
 
 **Thoughts**: Learning about regression and its applications is fun! It's cool, because it's a bit of a level of abstraction and I got to go into some of the math behind it. Simple Linear Regression made me think of Local Linear Approximation, which was something we did exercises on last year so that was nice.
+
+### Day 46: October 4, 2020
+
+**Today's Progress**: Continued with non-linear regression today. 
+
+**Thoughts**: It was actually a bit more straightforward than it originally seemed before I did the labs, so that was cool! I also recently checked out MIT's course on deep learning, which was also cool. 
