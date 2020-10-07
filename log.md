@@ -333,3 +333,9 @@
 **Today's Progress**: Continued with non-linear regression today. 
 
 **Thoughts**: It was actually a bit more straightforward than it originally seemed before I did the labs, so that was cool! I also recently checked out MIT's course on deep learning, which was also cool. 
+
+### Day 47: October 7, 2020
+
+**Today's Progress**: Completed a lab on an introduction to decision trees. 
+
+**Thoughts**: It was fun doing this lab, because one of the practice items was to figure out how to determine the accuracy of the model without using sklearn. Although it was only a few lines of code, I appreciate sklearn a little bit more now that I see the difference it makes for efficiency (in terms of coding). I've also started reading about the different distance metrics used in machine learning. It's cool how this goes beyond Euclidean distance, because up until recently, I hadn't realized just how many different metrics or types of metrics there were for accuracy and for distance. 
