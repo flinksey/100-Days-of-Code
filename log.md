@@ -339,3 +339,9 @@
 **Today's Progress**: Completed a lab on an introduction to decision trees. 
 
 **Thoughts**: It was fun doing this lab, because one of the practice items was to figure out how to determine the accuracy of the model without using sklearn. Although it was only a few lines of code, I appreciate sklearn a little bit more now that I see the difference it makes for efficiency (in terms of coding). I've also started reading about the different distance metrics used in machine learning. It's cool how this goes beyond Euclidean distance, because up until recently, I hadn't realized just how many different metrics or types of metrics there were for accuracy and for distance. 
+
+### Day 48: October 9, 2020
+
+**Today's Progress**: Worked on a final assignment on classification.
+
+**Thoughts**: It was cool to figure out how to build an accurate model for different algorithms (i.e. KNN, Decision Trees, etc.). The goal is to complete the assignment over the weekend. It's a little stressful to work on this challenge, considering that it's not the focus of my major (which is my number 1 priority) and that my workload has become a bit more demanding. So, a bit worried about managing everything, but it's a work-in-progress!
